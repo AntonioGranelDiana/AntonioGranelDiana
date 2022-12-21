@@ -54,3 +54,13 @@ Here are some ideas to get you started:
 - Netify: https://app.netlify.com/teams/antoniograneldiana/overview
 
 
+## Training Courses
+
+- PHP Básico (Udemy).
+- Visual Studio Code: Mejora tu velocidad para codificar. (Udemy).
+- Aprende a dominar Git de cero a experto. (Udemy).
+- Curso de Angular 11 para principiantes. (OpenWebinars).
+
+
+
+
