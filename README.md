@@ -1,6 +1,6 @@
-### Hello Universe, I'm Antonio  👋
+# Hello Universe, I'm Antonio  👋
 
-#### Junior Web Developer
+### Junior Web Developer
 
 Hi there, welcome to my GitHub profile 👨‍💻
 Here you can follow my evolution as a programmer, my work and actual projects 📤
