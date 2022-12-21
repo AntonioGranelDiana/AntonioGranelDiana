@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 - Gmail: antoniograneldiana@gmail.com
 
-- LinkedIn: in construction
+- LinkedIn: 
 
 
