@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 - Visual Studio Code: Mejora tu velocidad para codificar. (Udemy).
 - Aprende a dominar Git de cero a experto. (Udemy).
 - Curso de Angular 11 para principiantes. (OpenWebinars).
+- Bootstrap 4: Maquetación Responsive y Layout. (OpenWebinars).
 
 
 
