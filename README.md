@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - Gmail: antoniograneldiana@gmail.com
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/antonio-granel-diana/
 
 - Netify: https://app.netlify.com/teams/antoniograneldiana/overview
 
